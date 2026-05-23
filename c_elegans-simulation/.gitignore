@@ -1,0 +1,60 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+/UserSettings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+unity-compile.log
+
+# Unity cache and import artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# IDE/editor
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider
+ExportedObj/
+.consulo/
+*.DotSettings.user
+
+# OS generated
+ehthumbs.db
+Desktop.ini
+
+# Keep Unity project source tracked:
+# /Assets/
+# /Packages/
+# /ProjectSettings/
